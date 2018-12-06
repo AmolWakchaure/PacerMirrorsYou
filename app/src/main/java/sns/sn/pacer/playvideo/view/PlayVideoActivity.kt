@@ -70,7 +70,6 @@ class PlayVideoActivity : AppCompatActivity() {
                 //playVieo(mediaController!!)
             }
             else
-            {
 
                 cnt++
                 playVieo(mediaController)
